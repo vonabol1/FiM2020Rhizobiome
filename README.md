@@ -4,4 +4,5 @@ Repository for FiM Submission "Community Consolidation Dictates Hydroponic Root 
 This repository includes materials related to the FiM submission:
 - Manuscript
 - Figures
-- Supplementary materials
+- Supplementary material figures
+- Data sets
