@@ -5,4 +5,5 @@ This repository includes materials related to the FiM submission:
 - Manuscript
 - Figures
 - Supplementary material figures
+- Gene Prevalence Heatmaps
 - Data sets
